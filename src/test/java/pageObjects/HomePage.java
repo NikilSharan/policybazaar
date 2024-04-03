@@ -43,5 +43,10 @@ public class HomePage extends basePage {
 		HomePageLogo.click();
 	}
 	
+	public boolean IsLogo_Displayed() {
+		Boolean display=HomePageLogo.isDisplayed();
+		return display;
+	}
+	
 
 }
