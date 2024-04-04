@@ -26,3 +26,24 @@
 16:40:09.870 [main] ERROR testCase.TC_005_HealthInsurance - ***Test case AssociateDetails failed***
 16:41:25.018 [main] INFO  testCase.TC_005_HealthInsurance - ******
 16:41:28.074 [main] ERROR testCase.TC_005_HealthInsurance - ***Test case AssociateDetails failed***
+11:27:29.951 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+11:27:41.849 [main] ERROR testCase.TC_016_Travel_PlansPage - ***TC_016 failed***
+11:32:48.127 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+11:32:52.643 [main] ERROR testCase.TC_016_Travel_PlansPage - ***TC_016 failed***
+11:37:23.082 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+11:37:39.062 [main] ERROR testCase.TC_016_Travel_PlansPage - ***TC_016 failed***
+11:42:33.525 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+11:42:49.736 [main] ERROR testCase.TC_016_Travel_PlansPage - ***TC_016 failed***
+11:47:29.134 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+11:48:55.590 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+11:49:38.400 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+11:55:53.067 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+12:23:37.813 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+12:24:38.067 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+16:22:17.689 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+16:24:27.393 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+16:25:40.142 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+16:28:08.844 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+16:36:49.999 [main] INFO  testCase.TC_016_Travel_PlansPage - ***TC_016 STARTS***
+16:54:05.230 [main] INFO  testCase.TC_017_CarHomePage - ******
+16:54:14.267 [main] INFO  testCase.TC_017_CarHomePage - ***TC_002 Passed***

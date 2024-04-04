@@ -21,6 +21,11 @@ public class Destination1_1 extends basePage {
 		inputField.sendKeys("France");
 	}
 	
+	public boolean Is_inputfieldActive() {
+		boolean bool = inputField.isEnabled();
+		return bool;
+	}
+	
 	public void clickingBtn1() {
 		nextBtn.click();
 	}
